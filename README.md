@@ -25,7 +25,7 @@ Exploratory Data Analysis on 1000 Movies Data
 ### **Scenario**
 
 - In 2017, a production company ABC decides to produce movies that will earn the best in terms of revenue & popularity. 
-- This company approaches SOUMYA, and asks him to come up with characteristics of movies that will help them achieve their purpose. 
+- This company approaches SAM, and asks him to come up with characteristics of movies that will help them achieve their purpose. 
 - He is given the IMDB database of 1000 movies for the last 10 years (2006-2016). 
 - His task is come up with the characteristics of movies that are well appreciated by critics and audience & earn the highest revenue.
 
